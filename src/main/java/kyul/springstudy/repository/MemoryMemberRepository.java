@@ -1,6 +1,7 @@
 package kyul.springstudy.repository;
 
 import kyul.springstudy.domain.Member;
+import org.springframework.stereotype.Repository;
 
 import java.util.*;
 
